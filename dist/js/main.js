@@ -1,0 +1,1 @@
+const A=10,y=function(){console.log("ok")},sum=(o,n)=>o+n;console.log(sum(10,20));
